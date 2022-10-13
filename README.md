@@ -1,1 +1,1 @@
-Portofolio pertama dengan responsive dengan bootstrap
+Portofolio pertama dengan responsive design by bootrstrap
